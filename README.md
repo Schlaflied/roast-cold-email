@@ -1,6 +1,6 @@
 <div align="center">
 
-# roast-cold-email
+# roast-cold-email-skill
 
 > *你把简历投出去，等了三周，收到了已读不回。*<br>
 > *你写了一封措辞完美的感谢信，对方没有打开。*<br>

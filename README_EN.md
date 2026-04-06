@@ -1,6 +1,6 @@
 <div align="center">
 
-# roast-cold-email
+# roast-cold-email-skill
 
 > *You sent your resume. Three weeks later, you got nothing.*<br>
 > *You wrote a perfectly worded thank-you email. They didn't open it.*<br>
