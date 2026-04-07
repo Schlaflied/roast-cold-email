@@ -113,6 +113,29 @@ Community submissions welcome. Open an issue titled "[博物馆投稿]" and past
 
 ---
 
+### The Feedback That Proves The Point 款
+
+**Recipient context**: Sr. Director of GTM Systems and AI @ a collaborative learning platform that markets itself as "AI-powered"
+**Result**: Reply within 24 minutes. Called it "condescending and disrespectful."
+
+> Subject: Your AI has a gap
+>
+> Hi [Name],
+>
+> [Company] markets itself as AI-powered — AI Companion, Smart Review, AI-powered authoring, AI-powered collaborative learning. The word "AI" appears [N] times on your homepage.
+>
+> I contribute to Hive (YC-backed). I've spent the last year building agentic learning pipelines while most L&D teams debate whether to use ChatGPT.
+>
+> I'm not asking for a job. I'm asking what your AI actually does.
+>
+> No resume attached. If a PDF could explain what I do, I wouldn't be emailing you.
+
+**Translation**: He replied in 24 minutes to say the tone was "condescending and disrespectful." This is the reply. A Sr. Director at a company whose entire value proposition is AI-powered learning took time out of his morning to tell a stranger that her email made him uncomfortable. The email was right. That's why it landed.
+
+**Note**: The fastest reply in this collection. The more accurate the criticism, the faster the response.
+
+---
+
 ## 投稿格式说明 / Submission Guidelines
 
 收到过有效的批评式邮件？或者你自己发出去成功了的？来投稿。
